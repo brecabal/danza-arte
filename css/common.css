@@ -1,0 +1,62 @@
+body{
+	font-family: 'Monserrat', sans-serif;
+}
+
+
+.titulo1{
+	color: #0D1E5D;
+	font-size: 40px;
+	text-align: center;
+	margin-top:10px;
+}
+
+.menu{
+	text-decoration:none;
+	color: #0B498E;
+	padding: 10px;
+	margin-left:160px;
+	margin-bottom: 20px;
+}
+
+.imagen-shoes{
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: contain;
+	width: 100%;
+
+}
+
+.titulo-contacto{
+	color:#170C6A;
+	font-size:30px;
+	margin-bottom:20px;
+	margin-top: 20px;
+}
+
+input, textarea{
+	width: 50%;
+	margin-bottom:40px;
+	padding:7px;
+	font-size: 17px;
+	border:1px solid #9694FA;
+}
+
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
+.boton-mensaje{
+	background-color:#05143E;
+	color: #BABDF6;
+	border-radius:5px;
+	width: 52%;
+}
+
+footer{
+	background-color:#05143E;
+	color:#BABDF6;
+	padding: 20px; 
+}

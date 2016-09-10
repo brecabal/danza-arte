@@ -1,0 +1,41 @@
+.titulo-textura{
+	text-align: center;
+	font-size: 30px;
+	margin:20px;
+}
+
+
+.textura{
+	background-color:#DDD7D7;
+}
+
+.fotos1{
+	width:80%;
+	height:400px;
+
+}
+
+.fondos{
+	background-color: rgba(141, 139, 160, 0.4);
+	
+}
+
+.fondos1{
+	background-color: rgba(141, 139, 160, 0.4);
+}
+
+.fondos2{
+	background-color: rgba(141, 139, 160, 0.4);
+}
+
+.fondos3{
+	background-color: rgba(141, 139, 160, 0.4);
+}
+
+.fondos4{
+	background-color: rgba(141, 139, 160, 0.4);
+}
+
+.fondos5{
+	background-color: rgba(141, 139, 160, 0.4);
+}

@@ -1,0 +1,77 @@
+.fondo-danza{
+	background: url(../img/dance_7.jpg);
+	height: 500px;
+	width: 100%;
+}
+
+.textura-danza{
+	background-color: rgba(112, 99, 98, 0.4);
+	width: 50%;
+	position: relative;
+	top:120px;
+	left: 220px;
+
+}
+
+.titulo-danza{
+	color: #fff;
+	padding: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.parrafo-danza{
+	color: #fff;
+	padding: 30px;
+	text-align: center;
+}
+
+.fondo-textura{
+	background:url(../img/cubes.png);
+	height: 400px;
+}
+
+.titulo-textura{
+	color: #E1D9D9;
+	margin: 50px;
+	border-bottom: 1px solid #BCB3B3;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+
+}
+
+.parrafo-textura{
+	color:#BCB3B3;
+	text-align: center;
+	padding: 20px;
+}
+
+.titulo-foto{
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.fotos{
+	width: 90%;
+	height:200px;
+	padding:30px;
+}
+
+.nombre-foto{
+	margin-left: 25px;
+	padding-bottom: 10px;
+}
+
+.parrafo-foto{
+	margin-left: 25px;
+	color: #4B4949;
+}
+
+.parrafo-textura2{
+	font-style:italic;
+	font-size:40px;
+	text-align: center;
+	margin-top:100px;
+}
